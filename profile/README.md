@@ -50,10 +50,10 @@ Below is an overview of the main repositories under the **LNKD** organization:
 
 | Repository                                          | Description                                                     | Status                                                                                |
 |-----------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| [**lnkd-backend**](https://github.com/lnkd/lnkd-backend)   | Core API (shortlink creation, ping monitoring, DB integration). | [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)     |
-| [**lnkd-frontend**](https://github.com/lnkd/lnkd-frontend) | Web UI for managing shortlinks, viewing stats, etc.             | [![Frontend](https://img.shields.io/badge/frontend-react-blue.svg)](#)               |
-| [**lnkd-docs**](https://github.com/lnkd/lnkd-docs)         | Documentation: setup guides, API references, how-to guides.     | [![Docs](https://img.shields.io/badge/docs-up%20to%20date-green.svg)](#)             |
-| [**lnkd-devops**](https://github.com/lnkd/lnkd-devops)     | CI/CD pipelines, Docker/Kubernetes configs, infrastructure code. | [![DevOps](https://img.shields.io/badge/ops-automated-purple.svg)](#)                |
+| [**lnkd-backend**](https://github.com/lnkd/lnkd-backend)   | Core API (shortlink creation, ping monitoring, DB integration). | Work in Progress     |
+| [**lnkd-frontend**](https://github.com/lnkd/lnkd-frontend) | Web UI for managing shortlinks, viewing stats, etc.             | Work in Progress                  |
+| [**lnkd-docs**](https://github.com/lnkd/lnkd-docs)         | Documentation: setup guides, API references, how-to guides.     |  Work in Progress        |
+| [**lnkd-devops**](https://github.com/lnkd/lnkd-devops)     | CI/CD pipelines, Docker/Kubernetes configs, infrastructure code. |  Work in Progress    |
 
 
 ---
