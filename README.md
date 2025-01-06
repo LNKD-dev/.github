@@ -10,7 +10,7 @@
                            
 
 
-# LNKD – Shorten. Ping. Link.
+# LNKD – Short. Track. Engage.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#)
@@ -54,8 +54,7 @@ Below is an overview of the main repositories under the **LNKD** organization:
 | [**lnkd-frontend**](https://github.com/lnkd/lnkd-frontend) | Web UI for managing shortlinks, viewing stats, etc.             | [![Frontend](https://img.shields.io/badge/frontend-react-blue.svg)](#)               |
 | [**lnkd-docs**](https://github.com/lnkd/lnkd-docs)         | Documentation: setup guides, API references, how-to guides.     | [![Docs](https://img.shields.io/badge/docs-up%20to%20date-green.svg)](#)             |
 | [**lnkd-devops**](https://github.com/lnkd/lnkd-devops)     | CI/CD pipelines, Docker/Kubernetes configs, infrastructure code. | [![DevOps](https://img.shields.io/badge/ops-automated-purple.svg)](#)                |
-| **lnkd-libs** _(optional)_                          | Shared libraries/utilities used across multiple LNKD services.  |                                                                                       |
-| **lnkd-experiments** _(optional)_                   | Playground for prototypes, POCs, and new feature demos.         |                                                                                       |
+
 
 ---
 
