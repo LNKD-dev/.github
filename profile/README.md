@@ -89,13 +89,13 @@ Below is an overview of the main repositories under the **LNKD** organization:
    - Rename `.env.example` to `.env` in both the backend and frontend.  
    - Update variables like database credentials, service ports, etc.
 
-3. **Run Services**  
+3. **Run Services**  TBI (to be implemented)
    - **Docker Compose** (recommended):
      ```bash
      cd lnkd-devops
      docker-compose up -d
      ```
-   - **Local Setup** (Node.js, etc.):
+   - **Local Setup** (Node.js, etc.): TBI (to be implemented)
      ```bash
      # For the backend
      cd lnkd-backend
@@ -108,7 +108,7 @@ Below is an overview of the main repositories under the **LNKD** organization:
      npm run dev
      ```
 
-4. **Access LNKD**  
+4. **Access LNKD**   TBI (to be implemented)
    - Open your browser at `http://localhost:<FRONTEND_PORT>`  
    - Start shortening links and see them in action!
 
