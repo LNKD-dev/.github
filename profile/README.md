@@ -16,7 +16,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#contributing)
 
-**LNKD** is a **self-hosted shortlink** and **ping monitoring** service designed to simplify your link management while providing valuable insights. Our goal is to offer a lightweight, flexible, and privacy-focused alternative to commercial URL shorteners—plus the added bonus of ping and uptime checks.
+**LNKD** is a **self-hosted shortlink** and **monitor** service designed to simplify your link management while providing valuable insights. Our goal is to offer a lightweight, flexible, and privacy-focused alternative to commercial URL shorteners—plus the added bonus of ping and uptime checks.
 
 ---
 
@@ -40,8 +40,6 @@
 2. **Ping** and verify link uptime and status  
 3. Provide **insightful analytics** without compromising **privacy**  
 
-Whether you’re a developer seeking a backend-first solution or just need a fast, reliable shortlink service, LNKD’s modular structure makes it easy to integrate, customize, and deploy in any environment.
-
 ---
 
 ## Repositories
@@ -63,7 +61,7 @@ Below is an overview of the main repositories under the **LNKD** organization:
 - **Shortlink Management:**  
   Quickly create, update, and delete shortlinks.
 
-- **Ping & Monitoring:**  
+- **Monitoring:**  
   Periodically ping targets to track availability and response times.
 
 - **Analytics & Insights:**  
