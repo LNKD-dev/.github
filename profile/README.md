@@ -95,15 +95,7 @@ Below is an overview of the main repositories under the **LNKD** organization:
      ```
    - **Local Setup** (Node.js, etc.): TBI (to be implemented)
      ```bash
-     # For the backend
-     cd lnkd-backend
-     npm install
-     npm run start
-
-     # For the frontend
-     cd lnkd-frontend
-     npm install
-     npm run dev
+    
      ```
 
 4. **Access LNKD**   TBI (to be implemented)
