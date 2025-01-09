@@ -16,7 +16,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](#)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](#contributing)
 
-**LNKD** is a **self-hosted shortlink** and **monitor** service designed to simplify your link management while providing valuable insights. Our goal is to offer a lightweight, flexible, and privacy-focused alternative to commercial URL shorteners—plus the added bonus of ping and uptime checks.
+**LNKD** is a **self-hosted shortlink** and **monitor** service designed to simplify your link management while providing valuable insights. Our goal is to offer a lightweight, flexible, and privacy-focused alternative to commercial URL shorteners.
 
 ---
 
